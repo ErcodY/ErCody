@@ -1,10 +1,6 @@
 ## Hi there, I'm [ErcodY!](https://github.com/ErCody)👀
-I have about 2 years of experience in developing an application in C \ C ++, .NET Core (WinForms, WPF, LINQ) and writing scripts in Python.
+I have about 2 years of experience in developing an application in C \ C ++, .NET Core (WinForms, WPF, LINQ, ADO.NET, EF Core) and writing scripts in Python and T-SQL.
 A great experience in developing websites with HTML5, CSS3 (bootstrap), JavaScript (React, as well as ReactNative)
-
-I am proficient in the family of UNIX systems and Windows, I can configure these systems, as well as configure LAN, VLAN, WLAN, etc.
-If the hardware is not working properly, it will not be a problem for me to disassemble and repair the computer.
-In confirmation of this, I have a Cisco NetAcad certificate.
 
 
 <img align="left" alt="С++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
