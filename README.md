@@ -1,6 +1,6 @@
 ## Hi there, I'm [ErcodY!](https://github.com/ErCody)👀
-I have about 2 years of experience in developing an application in C \ C ++, .NET Core (WinForms, WPF, LINQ, ADO.NET, EF Core) and writing scripts in Python and T-SQL.
-A great experience in developing websites with HTML5, CSS3 (bootstrap), JavaScript (React, as well as ReactNative)
+I have about 2 years of experience in developing an application in C \ C ++, .NET (WinForms, WPF, ADO.NET, EF Core) and writing scripts in Python and T-SQL. 
+I can work with Git and Unix systems and manage MSSQL Server databases.
 
 
 <img align="left" alt="С++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
