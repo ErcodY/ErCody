@@ -1,5 +1,5 @@
 ## Hi there, I'm [ErcodY!](https://github.com/ErCody)👀
-I have about 2 (Non-Commercial) years of experience in developing an application in C \ C ++, .NET (WinForms, WPF, ADO.NET, EF Core) and writing scripts in Python and T-SQL. 
+I have about 2 (Non-Commercial) years of experience in developing an application in C++, .NET (WinForms, WPF, ADO.NET, EF Core) and writing scripts in Python and T-SQL. 
 I can work with Git and Unix systems and manage MSSQL Server databases.
 
 
