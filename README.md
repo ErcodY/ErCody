@@ -1,7 +1,7 @@
 ## Hello there, I'm [ErcodY!](https://github.com/ErCody)<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 My name is Ergun and I am 17 years old. Since the age of 11 I have been fond of IT and already have advanced knowledge of programming. The impetus for developing my skills was StepIT.
 
-I have participated in many competitions and events such as iSTEM, Teknofest and Google Hash Code. I am also a volunteer at ADA School at the moment. Also I have experience working as part of a team and individually. A sober assessment of the situation and finding the most optimal solution to the problem is also part of my skills.
+I have participated in many competitions and events such as iSTEM, Teknofest and Google Hash Code. I have experience working as part of a team and individually. A sober assessment of the situation and finding the most optimal solution to the problem is also part of my skills.
 
 Now I position myself as a .NET software developer.
 <br>
