@@ -7,7 +7,7 @@ I have participated in many competitions and events such as iSTEM, Teknofest and
 <br><h2>Professional skills</h2>
 <ul>
    <li>Programming languages: C#, C++, Python, Swift and JavaScript</li>
-   <li>echnologies and Frameworks:  .NET 7.0 (WPF, WinForms, LINQ, EFCore, ADO.NET, ASP Web API), SwiftUi</li>
+   <li>Technologies and Frameworks:  .NET 7.0 (WPF, WinForms, LINQ, EFCore, ADO.NET, ASP Web API), SwiftUi</li>
    <li>Frontend: HTML5, CSS3, SCSS, Bootstrap 5, XAML</li>
    <li>RDBMS: MS SQL Server and T-SQL</li>
    <li>GIT, GitHub</li>
