@@ -1,15 +1,20 @@
 ## Hello there, I'm [ErcodY!](https://github.com/ErCody)<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="38" width="38" /></h1>
-Hello there! I am Ergyun and since the age of 11 I have been fond of IT. StepIT was a big push in the development of my skills in the field of IT and Programming. 
+Hello there!
 
-I have participated in many competitions and events such as iSTEM, Teknofest and Google Hash Code and being volunteer at ADA School. Also I have experience working as part of a team and individually. A sober assessment of the situation and finding the most optimal solution to the problem is also part of my skills.
+I'm Ergyun, and my interest in IT and Technology sparked when I was just 11 years old. Since then, I've been on a journey of continuous learning and exploration. I've taken various online and offline courses and engaged in self-study, which has helped me develop a strong skill set. 
 
+Currently, I'm actively focused on enhancing my abilities through the StepIT Software Development course and at Altinbash university. I've also had the opportunity to participate in events like iSTEM, Teknofest, and Google Hash Code, where I had the chance to showcase my skills. Whether working within a team or independently, I find it easy to connect with others and solve problems effectively. 
+
+My approach involves analyzing situations carefully to find the best solutions. What drives me is the constant evolution of the IT field, which motivates me to stay updated with the latest trends and technologies.
+
+Here you can look at all my professional skills👇🏽.
 <br>
 <br><h2>Professional skills</h2>
 <ul>
    <li>Programming languages: C#, C++, Python, Swift and JavaScript</li>
-   <li>Technologies and Frameworks:  .NET 7.0 (WPF, WinForms, LINQ, EFCore, ADO.NET, ASP Web API), SwiftUi</li>
+   <li>Technologies and Frameworks:  .NET 8.0 (WPF, MAUI, EFCore, ASP), React.JS</li>
    <li>Frontend: HTML5, CSS3, SCSS, Bootstrap 5, XAML</li>
-   <li>RDBMS: MS SQL Server and T-SQL</li>
+   <li>SQL: MS SQL Server(T-SQL), SQLite</li>
    <li>GIT, GitHub</li>
    <li>Writing clean, readable and safe code</li>
 </ul>
